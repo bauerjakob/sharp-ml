@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpML", "SharpML\SharpML.csproj", "{9CDBB28B-77BB-4A62-BA75-F56E10C06E2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpML.Test", "SharpML.Test\SharpML.Test.csproj", "{3CF3B73F-12C6-4EF9-9731-AF86E6DD5993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9CDBB28B-77BB-4A62-BA75-F56E10C06E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CDBB28B-77BB-4A62-BA75-F56E10C06E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CDBB28B-77BB-4A62-BA75-F56E10C06E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF3B73F-12C6-4EF9-9731-AF86E6DD5993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF3B73F-12C6-4EF9-9731-AF86E6DD5993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF3B73F-12C6-4EF9-9731-AF86E6DD5993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF3B73F-12C6-4EF9-9731-AF86E6DD5993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

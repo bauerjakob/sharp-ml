@@ -1,5 +1,5 @@
 ﻿namespace SharpML;
 
-public class Class1
+public class SharpML
 {
 }
